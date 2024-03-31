@@ -47,7 +47,6 @@ Welcome to the Operating Systems Lab! This repository contains materials for the
    - [seek](https://github.com/helloworld9948/OS/blob/main/seek.c)
    - [stat](https://github.com/helloworld9948/OS/blob/main/stat.c)
    - [opendir](https://github.com/helloworld9948/OS/blob/main/opendir.c)
-   - [reeddir]()
    
 
 3. Write a C program to simulate Bankers Algorithm for Deadlock Avoidance and Prevention.
