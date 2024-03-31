@@ -39,7 +39,16 @@ Welcome to the Operating Systems Lab! This repository contains materials for the
    - d) [Priority](https://github.com/helloworld9948/OS/blob/main/Priority.c)
 
 2. Write programs using the I/O system calls of UNIX/LINUX operating system:
-   - open, read, write, close, fcntl, seek, stat, opendir, readdir
+   - [open](https://github.com/helloworld9948/OS/blob/main/open.c)
+   - [read]()
+   - [write](https://github.com/helloworld9948/OS/blob/main/write.c)
+   - [close](https://github.com/helloworld9948/OS/blob/main/close.c)
+   - [fcntl](https://github.com/helloworld9948/OS/blob/main/fcntl.c)
+   - [seek](https://github.com/helloworld9948/OS/blob/main/seek.c)
+   - [stat]()
+   - [opendir]()
+   - [reeddir]()
+   
 
 3. Write a C program to simulate Bankers Algorithm for Deadlock Avoidance and Prevention.
 
