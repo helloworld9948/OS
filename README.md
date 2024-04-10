@@ -11,25 +11,6 @@ Welcome to the Operating Systems Lab! This repository contains materials for the
 - **Practical Hours**: 2
 - **Credits**: 1
 
-## Prerequisites
-
-- Programming for Problem Solving
-- Computer Organization and Architecture
-
-## Co-requisite
-
-- Operating Systems
-
-## Course Objectives
-
-- Provide an understanding of the design aspects of operating system concepts through simulation.
-- Introduce basic Unix commands, system call interface for process management, interprocess communication, and I/O in Unix.
-
-## Course Outcomes
-
-- Simulate and implement operating system concepts such as scheduling, deadlock management, file management, and memory management.
-- Able to implement C programs using Unix system calls.
-
 ## List of Experiments
 
 1. Write C programs to simulate the following CPU Scheduling algorithms:
