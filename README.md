@@ -24,7 +24,7 @@ Welcome to the Operating Systems Lab! This repository contains materials for the
    - [read](https://github.com/helloworld9948/OS/blob/main/lread.c)
    - [write](https://github.com/helloworld9948/OS/blob/main/Lwrite.c)
    - [close](https://github.com/helloworld9948/OS/blob/main/close.c)
-   - [fcntl](https://github.com/helloworld9948/OS/blob/main/Lfcntl.c).
+   - [fcntl](https://github.com/helloworld9948/OS/blob/main/Lfcntl.c)
    - [seek](https://github.com/helloworld9948/OS/blob/main/seek.c)
    - [stat](https://github.com/helloworld9948/OS/blob/main/stat.c)
    - [opendir](https://github.com/helloworld9948/OS/blob/main/opendir.c)
