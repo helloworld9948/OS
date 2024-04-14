@@ -10,10 +10,7 @@ int main() {
     char ch = '\0';
     
     fd = open("test.dat", O_RDONLY);
-    while (1) {
-        // Empty while loop, not necessary
-    }
-    
+
     while (read(fd, &ch, 1) != 0)
         printf("%c", ch);
     printf("\n");
