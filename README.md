@@ -15,7 +15,7 @@ Welcome to the Operating Systems Lab! This repository contains materials for the
 
 1. Write C programs to simulate the following CPU Scheduling algorithms:
    - a) [FCFS](https://github.com/helloworld9948/OS/blob/main/FCFS.c)
-   - b) [SJF](https://github.com/helloworld9948/OS/blob/main/SJF.%20c)
+   - b) [SJF](https://github.com/helloworld9948/OS/blob/main/SJF.c)
    - c) [Round Robin](https://github.com/helloworld9948/OS/blob/main/Round%20Robin.c)
    - d) [Priority](https://github.com/helloworld9948/OS/blob/main/Priority.c)
 
